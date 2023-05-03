@@ -1,0 +1,23 @@
+{
+  "name": "1ra-pagina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barde35/1ra-pagina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barde35/1ra-pagina/issues"
+  },
+  "homepage": "https://github.com/Barde35/1ra-pagina#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
